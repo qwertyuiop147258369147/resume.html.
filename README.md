@@ -44,7 +44,7 @@
     <h1>吳秉澤的個人履歷</h1>
     
     <!-- 圖片路徑請依實際放置的檔案位置調整 -->
-    <img src="profile.jpg.jpg" alt="個人照片" class="profile-pic">
+    <img src="profile.jpg.jpg" alt="profile.jpg.jpg" class="profile-pic">
 
     <div class="info">
       <p><strong>Email:</strong> hallow3096@gmail.com</p>
